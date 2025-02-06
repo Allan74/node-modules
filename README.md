@@ -11,3 +11,5 @@ This is a simple Node.js project demonstrating how to **create, export, and impo
 ---
 
 ## 📂 Project Structure
+
+node-modules-demo/ │── app.js # Main application file │── math.js # Custom module (exports functions) │── package.json # Node.js project metadata │── .gitignore # Ignore node_modules/ └── README.md # Documentation
